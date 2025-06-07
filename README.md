@@ -1,6 +1,6 @@
 # word-guessing-game
 Interactive word guessing game built with Python for Code in Place
-# 🎮 AI Word Guessing Game
+# 🎮 Word Guessing Game
 
 A fun and interactive word guessing game built with Python as part of Stanford's Code in Place final project.
 
